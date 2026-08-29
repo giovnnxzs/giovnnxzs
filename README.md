@@ -54,7 +54,7 @@ Aprimorar meus conhecimentos em **Banco de Dados, Análise de Dados e Desenvolvi
 
 # 📫 Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/giovannigarciadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannigarciadev/)
 
 </div>
 
